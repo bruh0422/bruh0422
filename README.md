@@ -1,6 +1,5 @@
-## 嗨, 這裡是皮蛋 👋
-### 一名為夢想打拼的高中生
-
+## 嗨 這裡是皮蛋 👋
+### 正在往自己的夢想邁進 🏃
 ---
 
 ## 社群媒體
@@ -12,8 +11,9 @@
 </p>
 
 ## 技能樹
+### ___「如果沒有好用的軟體或工具，那就自己寫一個吧。」___
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,md,html,css)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,flask,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,cpp,java,git,mysql)](https://skillicons.dev)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bruh0422&show_icons=true&locale=en&layout=compact" alt="bruh0422"/></p>
 
 ## 使用工具
