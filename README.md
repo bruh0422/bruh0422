@@ -11,7 +11,7 @@
 </p>
 
 ## 技能樹
-### ___「如果沒有好用的軟體或工具，那就自己寫一個吧。」___
+[![wakatime](https://wakatime.com/badge/user/ef95969f-94dc-4b04-85b0-1514c7f82d4a.svg)](https://wakatime.com/@ef95969f-94dc-4b04-85b0-1514c7f82d4a)\
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,md,html,css)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=py,flask,cpp,java,git,mysql)](https://skillicons.dev)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bruh0422&show_icons=true&locale=en&layout=compact" alt="bruh0422"/></p>
